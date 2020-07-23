@@ -1,0 +1,7 @@
+10
+f[2]=='Yes' and f[1]=='Good' and f[0]=='Yes', Yes
+f[2]=='Yes' and f[1]=='Good' and f[0]=='No', No
+f[2]=='Yes' and f[1]=='Bad', Yes
+f[2]=='Yes' and f[1]=='Average' and f[0]=='Yes', No
+f[2]=='Yes' and f[1]=='Average' and f[0]=='No', Yes
+f[2]=='No', No
